@@ -19,3 +19,5 @@ optuna
 dvc
 dvc[dagshub]
 dvc[s3]
+category_encoders
+streamlit
