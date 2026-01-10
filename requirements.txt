@@ -21,3 +21,7 @@ dvc[dagshub]
 dvc[s3]
 category_encoders
 streamlit
+dask[dataframe]
+graphviz
+ipycytoscape
+pydot
