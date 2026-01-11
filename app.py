@@ -32,7 +32,7 @@ transformed_hybrid_data_path = "data/transformed_hybrid_data.npz"
 st.session_state.transformed_hybrid_data = load_npz(transformed_hybrid_data_path)
 
 # Title
-st.title('Welcome to the Spotify Song Recommender!')
+st.title('Welcome to the Spotify Song Recommender(created by Pravat!')
 
 # Subheader
 st.write('### Enter the name of a song and the recommender will suggest similar songs 🎵🎧')
